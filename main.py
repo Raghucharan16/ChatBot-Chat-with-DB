@@ -148,13 +148,6 @@ app = VannaFlaskApp(
     followup_questions=False,
     show_training_data=False,
     auth=SimplePassword(users=[
-        {"username": "freshbus-genai", "password": "Fm4kP2A8mhqDuF4"},
-        {"username": "saikiran", "password": "CeA5LbslAueV1Xh"},
-        {"username": "rohit", "password": "12345321"},
-        {"username": "karthik", "password": "Aen2yQteufDVEry"},
-        {"username": "geetanvesh", "password": "ZZOJy9ll2Pn375t"},
-        {"username": "vasant", "password": "O0QiypCyKF7Lr9m"},
-        {"username": "haritha", "password": "q1q9jeYnecnyaFj"}
     ])
 )
 
